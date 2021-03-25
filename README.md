@@ -1,5 +1,3 @@
-# hello-world
-My firt git
+# My firt git
 
-Hola! este es mi primer commit!
-Seguiré prácticando!
+Hola! este es mi primer commit, mejoraré!
